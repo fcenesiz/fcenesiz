@@ -15,7 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```diff
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcenesiz&show_icons=true&theme=dark)
+class AboutMe {
+    val firstName = "Ahmet Fatih"
+    val lastName = "Çenesiz"
+    val linkedin = "https://www.linkedin.com/in/ahmet-fatih-çenesiz-a820b3183/"
+-   val yearsOfExperience = 4
++   val yearsOfExperience = 5
+    val role = "Android Engineer"
+}
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcenesiz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+```
