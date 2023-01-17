@@ -23,8 +23,8 @@ class AboutMe {
     val firstName = "Ahmet Fatih"
     val lastName = "Çenesiz"
     val linkedin = "https://www.linkedin.com/in/ahmet-fatih-çenesiz-a820b3183/"
--   val yearsOfExperience = 4
-+   val yearsOfExperience = 5
+-   val yearsOfExperience = 9
++   val yearsOfExperience = 10
     val role = "Android Engineer"
 }
 
