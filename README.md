@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fcenesiz&label=Profile%20views&color=green&style=flat" alt="fcenesiz" /> </p>
 -->
 
 ```diff
@@ -39,4 +41,4 @@ class AboutMe {
 <a href="ahmetfatihcenesizdev@gmail.com"><img src="https://camo.githubusercontent.com/bed6accfec75df6f313754b2ca977ccf6a4283baf04eecef7d08603085917259/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d61726461616b6465726540676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=ahmetfatihcenesizdev@gmail.com" style="max-width: 100%;"></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fcenesiz&label=Profile%20views&color=green&style=flat" alt="fcenesiz" /> </p>
+
