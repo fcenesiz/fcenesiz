@@ -25,7 +25,7 @@ class AboutMe {
     val linkedin = "https://www.linkedin.com/in/ahmet-fatih-çenesiz-a820b3183/"
 -   val yearsOfExperience = 9
 +   val yearsOfExperience = 10
-    val role = "Android Engineer"
+    val role = "Native Android Engineer"
 }
 
 ```
