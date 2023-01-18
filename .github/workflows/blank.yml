@@ -1,0 +1,3 @@
+- name: GitHub follower change event
+  uses: Sorosliu1029/follower-change@v2
+
