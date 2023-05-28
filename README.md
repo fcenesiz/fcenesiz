@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fcenesiz&label=Profile%20views&color=green&style=flat" alt="fcenesiz" /> </p>
 -->
 
-```diff
+```kotlin
 
 class AboutMe {
     val firstName = "Ahmet Fatih"
