@@ -32,7 +32,8 @@ class AboutMe {
         [
             "Native Android Developer",
             "Native Ios Developer",
-            "Flutter Developer"
+            "Flutter Developer",
+            "React Native Developer"
         ]
 }
 
