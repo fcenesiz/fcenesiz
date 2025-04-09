@@ -26,8 +26,8 @@ class AboutMe {
     val appStore = "https://apps.apple.com/developer/ahmet-fatih-cenesiz/id1577137439?l"
     val playStoreCeesiz = "https://play.google.com/store/apps/dev?id=5348216302908550036&hl"
     val playStoreZisenec = "https://play.google.com/store/apps/dev?id=5999511083200869144"
--   val yearsOfExperience = 11
-+   val yearsOfExperience = 12
+-   val yearsOfExperience = 12
++   val yearsOfExperience = 13
     val roles =
         [
             "Native Android Developer",
